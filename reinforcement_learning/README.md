@@ -9,7 +9,7 @@ This repository is originally forked from [IDSIA/modern-srwm/reinforcement_learn
 We refer to instructions in the original repositories to install these packages. Please check the corresponding requirements.
 Note that intalling Polybeast or DMLab might not be straightforward depending on your system.
 
-* Optionally: install `wandb` for monitoring jobs (by using the --use_wandb flag)
+* Optionally: install `wandb` for monitoring jobs (by using the `--use_wandb` flag)
 
 * We used PyTorch version `>= 1.4.0` for our experiments
 
