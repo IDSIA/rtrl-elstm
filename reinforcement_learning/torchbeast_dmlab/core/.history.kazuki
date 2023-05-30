@@ -1,0 +1,8 @@
+2021-05-09.23-47-46.v03 less environment.py 
+2021-05-09.23-47-49.v03 less file_writer.py 
+2021-05-09.23-47-53.v03 less vtrace.py 
+2021-05-09.23-47-55.v03 less prof.py 
+2021-05-09.23-48-10.v03 mv environment.py _environment.py 
+2021-05-09.23-48-11.v03 rp /
+2021-05-09.23-48-13.v03 rp .
+2021-05-09.23-48-55.v03 vimdiff environment.py _environment.py 
